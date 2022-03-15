@@ -19,7 +19,7 @@ public class Car1 {
 	}
 	public static void main(String[] args) {
 		
-		Car obj = new Car();
+		Car1 obj = new Car1();
 		obj.display1();
 		obj.display2();
 		obj.display3();
